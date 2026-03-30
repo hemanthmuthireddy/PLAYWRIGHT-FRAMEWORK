@@ -1,0 +1,14 @@
+{
+  "name": "advanced-playwright-framework",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "dotenv": "^16.0.0",
+    "allure-playwright": "^2.0.0"
+  }
+}
