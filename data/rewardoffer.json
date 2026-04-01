@@ -1,0 +1,14 @@
+{
+    "offermain": {
+        "Offer_Title": "Buy 1 get 1 ",
+        "Sponsor": "Shopper Stop Hyderabad",
+        "Offer_Subtitle": "This offer is about the offer subtitle",
+        "validity": {
+            "startDate": "01/04/2026",
+            "endDate": "31/05/2026",
+            "startTime": "06:19 PM",
+            "endTime": "11:59 PM"
+        }
+        
+    }
+}

@@ -1,9 +1,9 @@
 {
     "memberinfo":{
+        "mobilenumber":"9876545678",
        "firstname":"jony",
        "lastname":"than",
-       "mobilenumber":"9876545678",
-       "dateofbirth":"31/03/2026",
+       "dateofbirth":"01/04/2026",
        "gender":"Male"
     }
 }
